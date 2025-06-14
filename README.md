@@ -3,7 +3,7 @@
 
 I specialize in building Android applications, web platforms, and database systems. With a growing focus on full-stack development, I’m committed to delivering efficient and scalable solutions through both front-end and back-end technologies.
 
----
+----------
 
 ## 🚀 Goals
 - 🌍 Build software that positively impacts communities.
@@ -11,7 +11,7 @@ I specialize in building Android applications, web platforms, and database syste
 - 🤝 Collaborate with innovative minds around the world.
 - ⚡ Deliver high-performance and scalable applications.
 
----
+----------
 
 ## 🛠️ Skills
 
@@ -33,16 +33,17 @@ I specialize in building Android applications, web platforms, and database syste
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+----------
 
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mav.404/)
-[![Twitter](https://img.shields.io/badge/https://x.com/cagne_mav)
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/maverick-cagne/) 
-[![GitHub](https://img.shields.io/badge/https://github.com/maxycagne/maxycagne)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cagne_mav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverick-cagne/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxycagne)
 
----
+
+----------
 
 ## 🏆 Badges
 
@@ -52,6 +53,6 @@ I specialize in building Android applications, web platforms, and database syste
 - 🌱 Currently learning: **Next.js**, **Tailwind CSS**, **Node.js**
 - 👨‍💻 Passionate about clean UI and smart backends
 
----
+----------
 
-_“Every tap starts with a line of code.”
+“Every tap starts with a line of code.”
