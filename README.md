@@ -57,7 +57,7 @@ I specialize in building Android applications, web platforms, and database syste
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrdivMaverick&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxycagne&layout=compact&theme=tokyonight)
 
 
 “Every tap starts with a line of code.”
