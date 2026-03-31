@@ -1,5 +1,5 @@
 # ⚡ Ordiv Maverick Cagne
-### **Full-Stack Developer | Mobile Developer | Web Developer | UI/UX **
+### **Full-Stack Developer | Mobile Developer | Web Developer | UI/UX Design **
 
 I am a fourth-year college student at STI specializing in modern UI/UX systems and scalable mobile/web applications. I bridge the gap between aesthetic design and robust backend logic with a minimalist approach.
 
@@ -13,25 +13,30 @@ I am a fourth-year IT student at **STI College Tarlac** specializing in building
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-| Category | Technologies |
+### **Frontend & UI Development**
+| Focus | Technologies |
 | :--- | :--- |
-| **Languages** | Java, JavaScript, PHP, C#, Python, HTML/CSS |
-| **Frameworks** | Next.js, React, Laravel, Flutter, Android (Java) |
-| **Databases** | MySQL, Firebase, MongoDB, Room DB, SAP S4/HANA |
-| **Tools** | Git, GitHub, VS Code, Android Studio, Huawei Cloud |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
----
+### **Backend & Infrastructure**
+| Focus | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) |
 
-## 📂 Featured Projects
+### **APIs & Cloud Integrations**
+* **Google Ecosystem:** Maps API (Routing/Geolocation), Sheets API (Data Sync), Calendar API (Scheduling/Notifications)
+* **DevOps:** GitHub Actions, Vercel Deployment, OAuth 2.0 Authentication
+* **Automation:** Google Forms & Sheets Automation (Apps Script)
 
-### **🍽️ DINE-SYNC (Capstone Project)**
-*Full-Stack Tablet-Based Ordering & Sales Management System*
-* Built an **offline-first** system with local-to-cloud synchronization.
-* Implemented specialized modules for Customers, Kitchen, Cashier, and Admin.
-* **Tech:** Android (Java), XML, PHP, MySQL, REST APIs.
-* 
+### **Developer Toolbelt**
+* **IDE/Editors:** VS Code, Android Studio, IntelliJ IDEA, Visual Studio 2022
+* **Environment:** Laragon, XAMPP, Git, GitHub, MySQL Workbench
 ---
 
 ## 🏆 Certifications & Accreditations
