@@ -42,7 +42,8 @@ I am a fourth-year IT student at **STI College Tarlac** specializing in building
 ## 🏆 Certifications & Accreditations
 
 * 🥇 **1st Place** – National Hackathon Codefest Competition (2025)
-* 🏆 **Champion** – Cluster & Local Hackathon Codefest Competitions (2025)
+* 🏆 **Champion** – Cluster Hackathon Codefest Competitions (2025)
+* 🏆 **Champion** – Local Hackathon Codefest Competitions (2025)
 * 📱 **Best Android Application Award** – DroidDash (2024)
 * 🥇 **1st Place** – Local Hackathon Codefest Competition (2024)
 * 🎓 **Systems Administration & Java Fundamentals** – Course Completion (2023)
