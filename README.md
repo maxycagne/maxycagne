@@ -18,7 +18,7 @@ I am a fourth-year IT student at **STI College Tarlac** specializing in building
 ### **Frontend & UI Development**
 | Focus | Technologies |
 | :--- | :--- |
-| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 
