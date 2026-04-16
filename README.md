@@ -53,7 +53,7 @@ I am a fourth-year IT student at **STI College Tarlac** specializing in building
 ## 📊 GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxycagne&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxycagne&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxycagne&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
