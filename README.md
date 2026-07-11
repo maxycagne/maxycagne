@@ -8,8 +8,6 @@ I specialize in developing modern, high-performance applications using React.js,
 
 🏆 **3× National & Regional Hackathon Champion**
 
-💼 **Full-Stack Developer (Freelance) | Software Engineer Intern**
-
 📍 **Currently based in the United Arab Emirates**
 
 🚀 **Open to Software Engineer & Full-Stack Developer opportunities**
