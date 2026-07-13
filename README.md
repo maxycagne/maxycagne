@@ -17,7 +17,7 @@ I specialize in developing modern, high-performance applications using React.js,
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ordiv-maverick-cagne">
+<a href="https://www.linkedin.com/in/maverick-cagne/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -127,7 +127,7 @@ I specialize in developing modern, high-performance applications using React.js,
 
 🌐 **Portfolio:** https://maverickcagne.vercel.app
 
-💼 **LinkedIn:** https://linkedin.com/in/ordiv-maverick-cagne
+💼 **LinkedIn:** https://www.linkedin.com/in/maverick-cagne/
 
 🐙 **GitHub:** https://github.com/maxycagne
 
