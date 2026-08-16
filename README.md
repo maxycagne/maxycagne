@@ -17,9 +17,6 @@ I build modern web, desktop, and mobile apps. These days I'm focused on **agenti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxycagne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxycagne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Top languages" />
-
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxycagne&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="GitHub streak" />
