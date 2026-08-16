@@ -1,8 +1,6 @@
 <div align="center">
 
-# Ordiv Maverick Cagne
-
-**Full Stack Engineer**
+# **Full Stack Engineer**
 
 I build modern web, desktop, and mobile apps. These days I'm focused on **agentic AI** and **generative AI** — integrating helpful features into systems and turning tough problems into tech solutions.
 
@@ -15,10 +13,6 @@ I build modern web, desktop, and mobile apps. These days I'm focused on **agenti
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maverickcagne@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cagne_mav)
 
-
-
-
-
 ### GitHub analytics
 
 <div align="center">
@@ -30,12 +24,8 @@ I build modern web, desktop, and mobile apps. These days I'm focused on **agenti
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxycagne&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="GitHub streak" />
 
-
-
 ---
 
-<div align="center">
 
-*Every tap starts with a line of code.*
 
 </div>
